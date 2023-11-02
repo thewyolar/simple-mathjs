@@ -1,4 +1,4 @@
-import math from "mathjs";
+const math = require('mathjs');
 
 function add(a, b) {
     return a + b;
