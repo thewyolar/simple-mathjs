@@ -6,12 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewyolar/simple-mathjs.git"
+  },
   "keywords": [
     "simple",
     "math"
   ],
   "author": "thewyolar",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thewyolar/simple-mathjs/issues"
+  },
+  "homepage": "https://github.com/thewyolar/simple-mathjs#readme",
   "dependencies": {
     "mathjs": "^12.0.0"
   }
