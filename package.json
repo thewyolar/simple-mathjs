@@ -1,7 +1,7 @@
 {
   "name": "simple-mathjss",
-  "version": "1.0.1",
-  "description": "A simple package for basic math operations",
+  "version": "1.0.3",
+  "description": "A simple package for basic math operations and sorting algorithms",
   "main": "index.js",
   "scripts": {
     "build": "webpack -p",
